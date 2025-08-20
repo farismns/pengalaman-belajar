@@ -1,10 +1,10 @@
 # pengalaman-belajar
 
-19 Agustus 2025
-1. Apa itu git dan github?
-2. Apa saja perintahnya?
+**19 Agustus 2025**<br>
+* Apa itu git dan github?
+* Apa saja perintahnya?
 
-20 Agustus 2025
+**20 Agustus 2025**<br>
 Belajar git dan github
-1. Latihan
-2. Studi Kasus
+* Latihan
+* Studi Kasus
